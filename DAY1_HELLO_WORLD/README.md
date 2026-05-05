@@ -4,5 +4,4 @@ my code solution:
 
 
 out put:
-area=200
-area=400
+hello world
