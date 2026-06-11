@@ -1,0 +1,11 @@
+ERROR!
+/tmp/SAjWCmFTnY/Main.java:9: error: cannot find symbol
+        BigInteger b = new BigInteger(input2);
+                                      ^
+  symbol:   variable input2
+  location: class Mani
+1 error
+ERROR!
+error: compilation failed
+
+=== Code Exited With Errors ===
