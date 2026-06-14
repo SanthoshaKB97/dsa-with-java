@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in); 
         System.out.print("enter youer cote name: "); 
         String name = sc.nextLine(); 
-        System.out.println("hello sir How are you" + name); 
+        System.out.println("hello sir How are you_" + name); 
         
     } 
 }
