@@ -1,1 +1,23 @@
 
+public class Main{
+    public static void main(String[]args){
+        String name="Santhosha";
+        String father="Byanappa";
+        String mother="Basamma";
+        String brother="Shivakumara";
+        int age=17;
+        int fatherage=60;
+        int motherage=36;
+        int brotherage=15;
+        System.out.println("MY family ditails");
+        System.out.println("_   _   _   __");
+        System.out.println(name);
+        System.out.println(age);
+        System.out.println(father);
+        System.out.println(fatherage);
+        System.out.println(mother);
+        System.out.println(motherage);
+        System.out.println(brother);
+        System.out.println(brotherage);
+    }
+}
