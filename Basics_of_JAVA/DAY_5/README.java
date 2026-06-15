@@ -1,6 +1,7 @@
-Instance Variable: 10
-Static Variable: I am static
-Local Variable: 5
-Accessing Static Variable via class: I am static
+age:25
+str:Welcome to kunemadihalli
+c:A
+be:true
+d:500000.0
 
 === Code Execution Successful ===
